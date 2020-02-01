@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diena1_basics", "Diena1_basics\Diena1_basics.csproj", "{720411A3-74EC-489C-8C46-E3571957F99F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{720411A3-74EC-489C-8C46-E3571957F99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{720411A3-74EC-489C-8C46-E3571957F99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{720411A3-74EC-489C-8C46-E3571957F99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{720411A3-74EC-489C-8C46-E3571957F99F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC4FF4E1-095F-4A2E-AD9D-5D0A1A9171B9}
+	EndGlobalSection
+EndGlobal
