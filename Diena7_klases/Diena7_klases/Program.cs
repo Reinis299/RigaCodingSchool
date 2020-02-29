@@ -7,7 +7,7 @@ namespace Diena7_klases
         static void Main(string[] args)
         {
 
-            task3();
+            task1();
             //objEx1();
 
 

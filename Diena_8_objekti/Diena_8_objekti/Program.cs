@@ -29,26 +29,6 @@ namespace Diena_8_objekti
             /*Random random = new Random();
             int number = random.Next(1,10)*/
 
-            /* const int uzvaretajs = 3;
-             int pirm = 0;
-             int otr = 0;
-                 for (int i = 0; i <= uzvaretajs; i++)
-                 {
-                     skaitlis sk = new skaitlis();
-                     Console.WriteLine(sk.getNumber());
-                     skaitlis sk2 = new skaitlis();
-                     Console.WriteLine(sk2.getNumber());
-                     if (sk.getNumber() > sk2.getNumber())
-                     {
-                         Console.WriteLine("Pirmais skaitlis bija liekaaks ");
-                         pirm++;
-                     }
-                     else
-                     {
-                         Console.WriteLine("Otrais skaitlis bija liekaaks ");
-                         otr++;
-                     }
-                 }*/
             skaitlis sk = new skaitlis();
             Console.WriteLine(sk.getNumber());
             skaitlis sk2 = new skaitlis();
